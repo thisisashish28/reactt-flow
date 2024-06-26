@@ -49,11 +49,4 @@ export const User = sequelize.define(
   }
 );
 
-/*
-2 users with these credentials are already there
-email-yudishchakrawarty3042@gmail.com
-password-A1b2C3d4
 
-email-yudi@gmail.com 
-password-Testing1234
-*/
